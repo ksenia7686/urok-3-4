@@ -1,0 +1,38 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+h1{
+    margin: auto;
+}
+
+div{
+    margin-top: 2px;
+    text-align: center;
+}
+
+.counter{
+    width: 100%;
+}
+
+.Header{
+    background-color: cornflowerblue;
+    height: 150px;
+    border: 5px solid black;
+}
+
+.NavBar{
+    background-color: aquamarine;
+    height: 40px;
+    border: 5px solid aqua;
+}
+
+.MainContentArea{
+    background-color: cornflowerblue;
+    height: 500px;
+    border: 5px solid cyan;
+}
+
+
+
